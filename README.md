@@ -1,3 +1,3 @@
 ## Tow Sum 
 
-[![](TowSum/Capture.JPG)]
+![](TowSum/Capture.JPG)
