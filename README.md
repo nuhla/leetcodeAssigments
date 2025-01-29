@@ -5,4 +5,4 @@
 
 ## Majority Elenemt
 
-![](Majority Element/2.JPG)
+![](MajorityElement/2.JPG)
